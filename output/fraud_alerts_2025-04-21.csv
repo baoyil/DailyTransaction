@@ -1,0 +1,9 @@
+transaction_id,account_id,timestamp,type,description,severity
+TX1000002,ACC10002,2025-04-15T09:30:45Z,account_overdraft,Account in overdraft: $-974.50,high
+TX1000007,ACC10007,2025-04-15T12:01:22Z,large_transaction,Large transaction: $15000.00,medium
+TX1000008,ACC10002,2025-04-15T12:15:30Z,account_overdraft,Account in overdraft: $-974.50,high
+TX1000016,ACC10002,2025-04-15T16:15:45Z,account_overdraft,Account in overdraft: $-974.50,high
+TX1000017,ACC10002,2025-04-15T16:30:10Z,account_overdraft,Account in overdraft: $-974.50,high
+TX1000018,ACC10002,2025-04-15T16:45:22Z,account_overdraft,Account in overdraft: $-974.50,high
+TX1000022,ACC10006,2025-04-15T17:50:30Z,large_transaction,Large transaction: $12000.00,medium
+TX1000018,ACC10002,2025-04-15T16:45:22Z,rapid_withdrawals,3 withdrawals totaling $1550.00 in 29 minutes,high
